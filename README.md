@@ -2,6 +2,8 @@
 
 A LEGO® control panel to provide physical controls to the BrickMMO Smart City. 
 
+![Sample panel](_readme/panel.png)
+
 ***
 
 ## Repo Resources
