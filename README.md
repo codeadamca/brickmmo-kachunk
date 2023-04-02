@@ -9,9 +9,9 @@ Control panel will not control anything directly. It will set a series of variab
 ```json
 {
 	"master": "on",
-	"mode": 1,
+	"mode": "a",
 	"data": {
-		"1": {
+		"a": {
 			"leftDial": "0",
 			"rightDial": "360",
 			"buttonA": "on",
@@ -19,7 +19,7 @@ Control panel will not control anything directly. It will set a series of variab
 			"buttonC": "off",
 			"buttonD": "off"
 		},
-		"2": {
+		"b": {
 			"leftDial": "0",
 			"rightDial": "360",
 			"buttonA": "on",
@@ -27,7 +27,7 @@ Control panel will not control anything directly. It will set a series of variab
 			"buttonC": "off",
 			"buttonD": "off"
 		},
-		"3": {
+		"c": {
 			"leftDial": "0",
 			"rightDial": "360",
 			"buttonA": "on",
@@ -35,7 +35,7 @@ Control panel will not control anything directly. It will set a series of variab
 			"buttonC": "off",
 			"buttonD": "off"
 		},
-		"4": {
+		"d": {
 			"leftDial": "0",
 			"rightDial": "360",
 			"buttonA": "on",
