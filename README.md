@@ -1,4 +1,4 @@
-# BrickMMO Kachunk
+# BrickMMO Panel
 
 A LEGO® control panel to provide physical controls to the BrickMMO Smart City. 
 
