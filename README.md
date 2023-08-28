@@ -50,7 +50,15 @@ Control panel will not control anything directly. It will set a series of variab
 > **Note**  
 > JSON formating should follow the [Google JSON Style Guide](https://google.github.io/styleguide/jsoncstyleguide.xml).
 
-***
+---
+
+## Project Stack
+
+This project uses a [PHP](https://www.php.net/) and [Laravel](https://laravel.com/) API and [Python](https://www.python.org/) on the hubs.
+
+<img src="https://console.codeadam.ca/api/image/php" width="60"> <img src="https://console.codeadam.ca/api/image/laravel" width="60"> <img src="https://console.codeadam.ca/api/image/python" width="60">
+
+---
 
 ## Repo Resources
 
